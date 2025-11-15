@@ -83,3 +83,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/__ExternalActors__
+/Content/__ExternalObjects__
+/Content/LevelPrototyping
+/Content/Variant_Combat
+/Content/ThirdPerson
+/Content/Input
